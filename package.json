@@ -1,0 +1,19 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "fileGrabber",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SethKalkstein/jukeBox.git"
+  },
+  "author": "Seth Kalkstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SethKalkstein/jukeBox/issues"
+  },
+  "homepage": "https://github.com/SethKalkstein/jukeBox#readme"
+}
